@@ -1,6 +1,6 @@
 
 
-## Used currying functions , lifted state , props refs
+## Used currying  , lifted state etc... :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
